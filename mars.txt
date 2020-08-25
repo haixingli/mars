@@ -2,3 +2,4 @@ Spaceship is ready. We are going to last off to Mars.
 We are docked in Spacestation, waiting for slinshot to mars
 We are approaching mars, ready to landing
 We have landed
+The rover is crazy.
